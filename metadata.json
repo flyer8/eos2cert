@@ -1,0 +1,14 @@
+{
+  "name": "flyer-eos2cert",
+  "version": "0.1.1",
+  "author": "flyer",
+  "summary": "Certs installation",
+  "license": "emc",
+  "source": "https://eos2git.cec.lab.emc.com/yudenk/puppet-manifests",
+  "project_page": null,
+  "issues_url": null,
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
